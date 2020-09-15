@@ -4,7 +4,7 @@
 
 /* Here's a 
 multi-line 
-comment */
+comment's goes at this position*/
 
 console.log('Here\'s a hidden...');
 
